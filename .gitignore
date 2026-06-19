@@ -1,0 +1,9 @@
+.venv/
+.cph/
+build/
+dist/
+__pycache__/
+*.pyc
+scores.txt
+tempCodeRunnerFile.py
+*.spec
